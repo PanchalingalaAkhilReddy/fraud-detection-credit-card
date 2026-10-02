@@ -2,6 +2,8 @@
 
 AI & ML Internship project (Elevate Labs).
 
+**Live demo:** https://fraudguard-ml.streamlit.app/
+
 Goal: catch fraudulent credit card transactions. The tricky part is that fraud is super rare in
 this dataset - only 492 out of 284,807 transactions (0.17%) - so plain accuracy is useless
 (saying "not fraud" every time gives 99.8%). I used precision, recall and PR-AUC instead.
